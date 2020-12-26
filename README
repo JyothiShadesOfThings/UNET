@@ -1,1 +1,5 @@
+This is predicition code. Training code can be found from here https://drive.google.com/drive/folders/1FT9anrC2CC9q8z2kIfXKIk5qL9VAimaf
+
+Shadesofthings google > model > unet > attentionmodel_unet.py
+
 The model weights are also included. please make sure that the folder structrure is same
