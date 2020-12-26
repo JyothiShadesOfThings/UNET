@@ -1,0 +1,246 @@
+{
+    "labels": {
+        "Apparatus": {
+            "categorie": "Background",
+            "color": [
+                255,
+                255,
+                0
+            ],
+            "id": 16,
+            "id_categorie": 0,
+            "name": "Apparatus"
+        },
+        "Background": {
+            "categorie": "Background",
+            "color": [
+                170,
+                255,
+                0
+            ],
+            "id": 15,
+            "id_categorie": 0,
+            "name": "Background"
+        },
+        "Blood": {
+            "categorie": "Exudate",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "id": 18,
+            "id_categorie": 4,
+            "name": "Blood"
+        },
+        "Bone": {
+            "categorie": "Wound",
+            "color": [
+                217,
+                217,
+                217
+            ],
+            "id": 13,
+            "id_categorie": 1,
+            "name": "Bone"
+        },
+        "Callus": {
+            "categorie": "PeriWound",
+            "color": [
+                80,
+                80,
+                80
+            ],
+            "id": 5,
+            "id_categorie": 2,
+            "name": "Callus"
+        },
+        "DeadTissue": {
+            "categorie": "Wound",
+            "color": [
+                170,
+                170,
+                0
+            ],
+            "id": 12,
+            "id_categorie": 1,
+            "name": "DeadTissue"
+        },
+        "DehydratedEdge": {
+            "categorie": "Edge",
+            "color": [
+                255,
+                170,
+                255
+            ],
+            "id": 22,
+            "id_categorie": 3,
+            "name": "DehydratedEdge"
+        },
+        "Eczema": {
+            "categorie": "PeriWound",
+            "color": [
+                255,
+                170,
+                0
+            ],
+            "id": 6,
+            "id_categorie": 2,
+            "name": "Eczema"
+        },
+        "Endema": {
+            "categorie": "PeriWound",
+            "color": [
+                101,
+                170,
+                166
+            ],
+            "id": 7,
+            "id_categorie": 2,
+            "name": "Endema"
+        },
+        "Eschar": {
+            "categorie": "Wound",
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "id": 1,
+            "id_categorie": 1,
+            "name": "Eschar"
+        },
+        "Excoreation": {
+            "categorie": "PeriWound",
+            "color": [
+                177,
+                166,
+                105
+            ],
+            "id": 8,
+            "id_categorie": 2,
+            "name": "Excoreation"
+        },
+        "HealedWound": {
+            "categorie": "PeriWound",
+            "color": [
+                180,
+                165,
+                180
+            ],
+            "id": 11,
+            "id_categorie": 2,
+            "name": "HealedWound"
+        },
+        "HealthyEdge": {
+            "categorie": "Edge",
+            "color": [
+                175,
+                80,
+                0
+            ],
+            "id": 9,
+            "id_categorie": 3,
+            "name": "HealthyEdge"
+        },
+        "HealthyGranulation": {
+            "categorie": "Wound",
+            "color": [
+                255,
+                85,
+                127
+            ],
+            "id": 2,
+            "id_categorie": 1,
+            "name": "HealthyGranulation"
+        },
+        "MaceratedEdge": {
+            "categorie": "Edge",
+            "color": [
+                169,
+                159,
+                157
+            ],
+            "id": 21,
+            "id_categorie": 3,
+            "name": "MaceratedEdge"
+        },
+        "Maceration": {
+            "categorie": "PeriWound",
+            "color": [
+                150,
+                0,
+                100
+            ],
+            "id": 14,
+            "id_categorie": 2,
+            "name": "Maceration"
+        },
+        "PeriWoundDiscoloration": {
+            "categorie": "PeriWound",
+            "color": [
+                169,
+                129,
+                157
+            ],
+            "id": 20,
+            "id_categorie": 2,
+            "name": "PeriWoundDiscoloration"
+        },
+        "RolledInEdge": {
+            "categorie": "Edge",
+            "color": [
+                170,
+                255,
+                255
+            ],
+            "id": 19,
+            "id_categorie": 3,
+            "name": "RolledInEdge"
+        },
+        "RolledOutEdge": {
+            "categorie": "Edge",
+            "color": [
+                81,
+                0,
+                81
+            ],
+            "id": 10,
+            "id_categorie": 3,
+            "name": "RolledOutEdge"
+        },
+        "Skin": {
+            "categorie": "Background",
+            "color": [
+                230,
+                153,
+                114
+            ],
+            "id": 17,
+            "id_categorie": 0,
+            "name": "Skin"
+        },
+        "Slough": {
+            "categorie": "Wound",
+            "color": [
+                175,
+                131,
+                178
+            ],
+            "id": 4,
+            "id_categorie": 1,
+            "name": "Slough"
+        },
+        "UnHealthyGranulation": {
+            "categorie": "Wound",
+            "color": [
+                70,
+                70,
+                70
+            ],
+            "id": 3,
+            "id_categorie": 1,
+            "name": "UnHealthyGranulation"
+        }
+    }
+}
